@@ -15,4 +15,4 @@ The application performs the following operations:
 1. Verification of phone number and e-mail address before user registration.
 2. Password recovery using link-based verification.
 3. The ability to choose the interface language from three options: English, Russian, and Uzbek.
-4. The administrator's page provides monitoring of data on registered users.
+4. The administrator's page provides monitoring and deleting of data on registered users.
