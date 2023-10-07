@@ -1,6 +1,7 @@
 # AUTHENTICATION REACT PROJECT
 
-## I YOUTUBE LINK: [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=8sI0LkE5U_E)](https://www.youtube.com/watch?v=8sI0LkE5U_E)
+------------- I YOUTUBE LINK:
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=8sI0LkE5U_E)](https://www.youtube.com/watch?v=8sI0LkE5U_E)
 
 ## II TOOLS
 1. React (JavaScript)
