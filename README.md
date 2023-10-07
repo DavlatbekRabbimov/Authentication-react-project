@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=8sI0LkE5U_E
 
 ### GIF (PART OF VIDEO)
-![davsdd-auth-project(react+firebase)](https://github.com/DavlatbekRabbimov/Authentication-react-project/assets/110993036/38f0f2e0-0843-4c22-a18f-a8fba0833aa8)
+![davsdd-auth-project(react+firebase)](https://github.com/DavlatbekRabbimov/Authentication-react-project/assets/110993036/65455cc1-5da7-48ff-a265-3f5ef9949c87)
 ### TOOLS
 - HTML
 - CSS
