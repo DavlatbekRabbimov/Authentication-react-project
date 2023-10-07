@@ -1,15 +1,15 @@
 # AUTHENTICATION REACT PROJECT
 
-##I YOUTUBE LINK: [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=8sI0LkE5U_E)](https://www.youtube.com/watch?v=8sI0LkE5U_E)
+## I YOUTUBE LINK: [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=8sI0LkE5U_E)](https://www.youtube.com/watch?v=8sI0LkE5U_E)
 
-##II TOOLS
+## II TOOLS
 1. React (JavaScript)
 2. Vite
 3. Firebase
 4. HTML
 5. CSS
    
-##III. CAPABILITIES
+## III. CAPABILITIES
 This authentication project was developed using the capabilities of the React and Vite frameworks, as well as the Firebase platform. 
 The application performs the following operations:
 1. Verification of phone number and e-mail address before user registration.
