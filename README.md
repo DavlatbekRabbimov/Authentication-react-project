@@ -2,7 +2,8 @@
 
 
 ![davSDD-auth-project](https://github.com/DavlatbekRabbimov/Authentication-react-project/assets/110993036/c57ea529-8b1c-4682-95fd-0cda75d7b63e) 
-### YOUTUBE CHANNEL URL: https://www.youtube.com/watch?v=8sI0LkE5U_E
+### YOUTUBE CHANNEL URL: 
+https://www.youtube.com/watch?v=8sI0LkE5U_E
 
 ### GIF (PART OF VIDEO)
 ![davsdd-auth-project(react+firebase)](https://github.com/DavlatbekRabbimov/Authentication-react-project/assets/110993036/38f0f2e0-0843-4c22-a18f-a8fba0833aa8)
