@@ -22,3 +22,8 @@ This authentication project was developed using the capabilities of the React an
 - Password recovery using link-based verification.
 - The ability to choose the interface language from three options: English, Russian, and Uzbek.
 - The administrator's page provides monitoring of data on registered users.
+
+### CONTACTS
+- Phone number: +998(90) 600 69 89
+- E-mail address: davsdd091@gmail.com
+- Telegram address: @davsdd
